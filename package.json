@@ -1,0 +1,21 @@
+{
+  "name": "cosine-similarity-threshold",
+  "version": "1.0.0",
+  "description": "Utility library for calculating cosine similarity thresholds",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "suyash-thakur",
+  "license": "MIT",
+  "dependencies": {
+    "node-kmeans": "^1.1.9"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "should": "^13.2.3"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
