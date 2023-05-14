@@ -7,9 +7,25 @@
     "test": "mocha --reporter spec"
   },
   "author": "suyash-thakur",
+  "keywords": [
+    "cosine",
+    "similarity",
+    "threshold",
+    "kmeans",
+    "clustering"
+  ],
   "license": "MIT",
   "dependencies": {
     "node-kmeans": "^1.1.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suyash-thakur/cosine-similarity-threshold.git"
+  },
+  "homepage": "https://github.com/suyash-thakur/cosine-similarity-threshold#readme",
+  "bugs": {
+    "url": "http://github.com/suyash-thakur/cosine-similarity-thresholds/issues",
+    "email": "suyashthakur910@gmail.com"
   },
   "devDependencies": {
     "mocha": "^10.2.0",
